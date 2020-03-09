@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45eb5578-6d88-46f0-9150-87cb270eff9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycomp/MyRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro-ini.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycomp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycomp/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/shiro.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mycomp/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mycomp/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycomp/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/shiro.ini" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shiro.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mycomp/AppTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="45eb5578-6d88-46f0-9150-87cb270eff9e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,6 +219,8 @@
       <updated>1583689763427</updated>
       <workItem from="1583689766983" duration="241000" />
       <workItem from="1583722739676" duration="11364000" />
+      <workItem from="1583753031127" duration="22000" />
+      <workItem from="1583753293422" duration="79000" />
     </task>
     <servers />
   </component>
